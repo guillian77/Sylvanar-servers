@@ -19,11 +19,11 @@ $_SESSION['Local'] = $language;
 # Mysql ################
 
 $serveraddress = "127.0.0.1";
-$serveruser = "root";
-$serverpass = "77270D692FC211E";
+$serveruser = "user";
+$serverpass = "passwird";
 $serverport	= "3306";
 
-$server_db = "website";
+$server_db = "website_database";
 $server_adb = "auth";
 
 $server_cdb = "characters";
