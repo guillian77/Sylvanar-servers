@@ -20,7 +20,7 @@ $_SESSION['Local'] = $language;
 
 $serveraddress = "127.0.0.1";
 $serveruser = "user";
-$serverpass = "passwird";
+$serverpass = "password";
 $serverport	= "3306";
 
 $server_db = "website_database";
