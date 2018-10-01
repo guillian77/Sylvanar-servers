@@ -1,13 +1,6 @@
-####################################
-#                                  #
-#   Sylvanar PHP core Website      #
-#                                  #
-#                                  #
-####################################
-
-&copyright Sylvanar-servers 
-&copyright 2011 - 2013
-&copyright Dekadmin - Aufrere Guillian
+Sylvanar-servers 
+2011 - 2013
+Aufrere Guillian
 
 All content is Aqua Flame CMS property. 
 Respecte their work and copyrights.
